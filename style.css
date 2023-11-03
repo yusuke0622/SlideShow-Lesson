@@ -1,0 +1,9 @@
+.swiper{
+    width: 6000px;
+    height: 300px;
+}
+
+:root {
+    --swiper-navigaton-color: #ffffff;
+    --swiper-pagination-color: #ffffff;
+}
